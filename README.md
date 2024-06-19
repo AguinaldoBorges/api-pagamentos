@@ -1,6 +1,6 @@
 ### Documentação Completa para o Backend (`api-pagamentos`)
 
-```markdown
+```
 # API de Processamento de Pagamentos Fictícios
 
 Esta é uma API de processamento de pagamentos fictícios construída com Node.js e Express, utilizando PostgreSQL para armazenamento de dados. A API permite a simulação de transações de pagamento, incluindo validação básica dos detalhes do cartão e armazenamento das transações no banco de dados.
